@@ -137,9 +137,8 @@ ul#todo-list li {
 @media (max-width: 600px) {
     .container {
         padding: 30px;
-        height: 90vh ;
-        width: 85%;
-        margin-bottom: 80px;
+        height: 80vh ;
+        width: 85%;;
     }
 
     .input-container {
