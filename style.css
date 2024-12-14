@@ -136,7 +136,7 @@ ul#todo-list li {
 /* Responsive Design */
 @media (max-width: 600px) {
     .container {
-        padding: 10px .5px 10px .5px;
+        padding: 10px;
         height: 90vh;
     }
 
