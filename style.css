@@ -136,8 +136,9 @@ ul#todo-list li {
 /* Responsive Design */
 @media (max-width: 600px) {
     .container {
-        padding: 10px 0px 0px 0px;
+        padding: 30px;
         height: 90vh;
+        width: 80%;
     }
 
     .input-container {
