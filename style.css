@@ -142,10 +142,10 @@ ul#todo-list li {
     }
 
     .container {
-        margin-top: 5px; 
+        margin-top: 1px; 
         /* margin-bottom: 10px; */
         height: auto; 
-        padding: 20px; 
+        padding: 10px; 
         /* padding-bottom: 80px; */
         max-height: calc(100vh - 150px);
     }
