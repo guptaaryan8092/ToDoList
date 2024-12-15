@@ -137,7 +137,7 @@ ul#todo-list li {
 @media (max-width: 600px) {
     body {
         justify-content: flex-start; 
-        padding: 30px 10px; 
+        padding: 20px 10px; 
         height: auto; 
     }
 
@@ -147,7 +147,7 @@ ul#todo-list li {
         height: auto; 
         padding: 20px; 
         /* padding-bottom: 80px; */
-        max-height: calc(90vh - 70px);
+        max-height: calc(100vh - 150px);
     }
 
     .input-container {
