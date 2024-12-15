@@ -137,12 +137,12 @@ ul#todo-list li {
 @media (max-width: 600px) {
     body {
         justify-content: flex-start; /* Align container to the top */
-        padding: 20px 10px; /* Add padding to avoid browser UI overlap */
+        padding: 30px 10px; /* Add padding to avoid browser UI overlap */
         height: auto; /* Allow body height to adjust */
     }
 
     .container {
-        margin-top: 10px; /* Adjust margin as needed */
+        margin-top: 30px; /* Adjust margin as needed */
         height: auto; /* Let the container height adjust */
         padding: 20px; /* Ensure the padding is consistent */
     }
