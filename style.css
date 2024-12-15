@@ -136,15 +136,18 @@ ul#todo-list li {
 /* Responsive Design */
 @media (max-width: 600px) {
     body {
-        justify-content: flex-start; /* Align container to the top */
-        padding: 30px 10px; /* Add padding to avoid browser UI overlap */
-        height: auto; /* Allow body height to adjust */
+        justify-content: flex-start; 
+        padding: 30px 10px; 
+        height: auto; 
     }
 
     .container {
-        margin-top: 30px; /* Adjust margin as needed */
-        height: auto; /* Let the container height adjust */
-        padding: 20px; /* Ensure the padding is consistent */
+        margin-top: 15px; 
+        margin-bottom: 10px;
+        height: auto; 
+        padding: 20px; 
+        /* padding-bottom: 80px; */
+        max-height: calc(90vh - 20px);
     }
 
     .input-container {
