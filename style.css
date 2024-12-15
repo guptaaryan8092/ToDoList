@@ -16,7 +16,7 @@ body {
 /* Container */
 .container {
     background-color: #1e1e1e;
-    padding: 20px;
+    padding: 10px 10px 10px 10px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(158, 66, 66, 0.9);
     max-width: 400px;
@@ -136,7 +136,7 @@ ul#todo-list li {
 /* Responsive Design */
 @media (max-width: 600px) {
     .container {
-        padding: 30px;
+        padding: 10px 10px 10px 10px;
         height: 80vh ;
         width: 85%;;
     }
